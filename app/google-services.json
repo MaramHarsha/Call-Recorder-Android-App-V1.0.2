@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251086507296",
+    "firebase_url": "https://callrecorder-e6dc5.firebaseio.com",
+    "project_id": "callrecorder-e6dc5",
+    "storage_bucket": "callrecorder-e6dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251086507296:android:cdffbcc62155ff46189b45",
+        "android_client_info": {
+          "package_name": "com.black_fbird.recoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251086507296-66ug1imn9jobn0g5jrjt8r16r28685k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozKrEP0f_nliMK3O8cbEgILXzeg2sErc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251086507296-66ug1imn9jobn0g5jrjt8r16r28685k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
